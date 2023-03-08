@@ -5,6 +5,7 @@ Seja bem vindo(a) à sétima Semana Javascript Expert. Este é o código inicial
 Marque esse projeto com uma estrela 🌟
 
 ## Preview
+<a href="https://marlonchi.github.io/semana-javascript-expert07/src/pages/titles/" target="_blank">Site publicado</a>
 <img width=100% src="./src/assets/demo-template-lg.PNG">
 
 ## Pre-reqs
