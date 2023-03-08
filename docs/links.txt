@@ -45,7 +45,7 @@
 - elementFromPoint API: https://developer.mozilla.org/en-US/docs/Web/API/Document/elementFromPoint
 
 ## Aula04
-- Projeto publicado: https://erickwendel.github.io/semana-javascript-expert07-pre/classes/class04/
+- Projeto publicado: https://marlonchi.github.io/semana-javascript-expert07/src/pages/titles/
 - Pergunta no Stack Overflow: https://stackoverflow.com/a/54212926/4087199
 - PseudoStyler: https://github.com/TSedlar/pseudo-styler
   
