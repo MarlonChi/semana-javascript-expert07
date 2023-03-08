@@ -16,18 +16,6 @@ Marque esse projeto com uma estrela 🌟
 - Execute `npm ci` na pasta que contém o arquivo `package.json` para restaurar os pacotes
 - Execute `npm start` e em seguida vá para o seu navegador em [http://localhost:3000](http://localhost:3000) para visualizar a página acima
 
-## Checklist Features
-- Titles List
-  - [x] - Campo para pesquisa não deve travar ao digitar termo de pesquisa
-  - [] - Deve desenhar mãos na tela e fazer com que elementos em segundo plano  continuem sendo clicáveis  🙌
-  - [x] - Deve disparar scroll up quando usar a palma das mãos abertas 🖐
-  - [x] - Deve disparar scroll down quando usar a palma das mãos fechadas ✊
-  - [] - Deve disparar click no elemento mais próximo quando usar  gesto de pinça 🤏🏻
-  - [] - Ao mover elementos na tela, deve disparar evento **:hover** em elementos em contexto
-
-- Video Player
-  - [x] - Deve ser possivel de reproduzir ou pausar videos com o piscar de olhos 😁
-  - [] - Todo processamento de Machine Learning deve ser feito via Web worker
 ### FAQ
 - browser-sync está lançando erros no Windows e nunca inicializa:
   - Solução: Trocar o browser-sync pelo http-server.
